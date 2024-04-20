@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-Recursos/dragoncito.jpg
+![Dragoncito](Recursos/dragoncito.jpg)
 
 ## Descripción
 
